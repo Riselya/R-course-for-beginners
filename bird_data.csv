@@ -1,0 +1,31 @@
+"habitat_type","species","presence"
+"farmland","Great tit",1
+"farmland","Blue tit",1
+"farmland","Wood pigeon",1
+"farmland","Yellowhammer",1
+"farmland","Skylark",1
+"farmland","Nuthatch",0
+"farmland","Treecreeper",0
+"farmland","Greenfinch",1
+"farmland","Goldfinch",1
+"farmland","Starling",1
+"forest","Great tit",1
+"forest","Blue tit",1
+"forest","Wood pigeon",1
+"forest","Yellowhammer",0
+"forest","Skylark",0
+"forest","Nuthatch",1
+"forest","Treecreeper",1
+"forest","Greenfinch",1
+"forest","Goldfinch",1
+"forest","Starling",0
+"gardens","Great tit",1
+"gardens","Blue tit",1
+"gardens","Wood pigeon",1
+"gardens","Yellowhammer",0
+"gardens","Skylark",0
+"gardens","Nuthatch",0
+"gardens","Treecreeper",0
+"gardens","Greenfinch",0
+"gardens","Goldfinch",0
+"gardens","Starling",0
